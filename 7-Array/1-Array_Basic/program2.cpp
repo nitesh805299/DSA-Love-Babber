@@ -8,15 +8,17 @@ int main(){
 
   // accessing an array 
 
-//   cout << endl<<"value at is index "<< number[14]<< endl;
+  cout << endl<<"value at is index "<< number[14]<< endl;
 
-//   cout << endl<<"value at is index "<< number[20]<< endl;
+  cout << endl<<"value at is index "<< number[20]<< endl;
 
 
 
    int second [3] = {2,5,8};
    cout<<"value of 2 index is "<<second[2]<< endl;
-
+ 
+    cout<<endl<<endl;
+    
    int third[15] = {2,5,8,4};
    int n9 =5;
    for (int i=0;i<n9;i++){

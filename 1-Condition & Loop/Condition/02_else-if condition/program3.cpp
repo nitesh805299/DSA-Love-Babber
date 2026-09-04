@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
 
+
+//"Write a C++ program to input a total amount from the user and calculate the minimum number of currency notes required to make that amount using denominations of ₹100, ₹50, ₹20, ₹10, ₹5, ₹2, and ₹1."
+
 int main(){
 
     int total_amount;
